@@ -10,9 +10,9 @@ A REST API using Node.js and PostgreSQL with pg library and using Express.js for
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/FaztWeb/postgresql-node-restapi.git`
+1. Clone the repository: `git clone https://github.com/BraulioUcPech/NodejsAPIRest-PostgreSQL.git`
 
-2. Install the dependencies: `npm install`
+2. Install the dependencies: `bun install`
 
 3. Create a database in PostgreSQL
 
@@ -28,7 +28,7 @@ DB_DATABASE=your_database
 
 or just copy the .env.template file and fill it with your data.
 
-5. Run the server: `npm run dev`
+5. Run the server: `bun run dev` or `npm run dev`
 
 ## Endpoints
 
@@ -40,8 +40,8 @@ or just copy the .env.template file and fill it with your data.
 
 ## Eslint
 
-To run eslint: `npm run lint`
+To run eslint: `npm run lint` or `bun run dev`
 
 ## License
 
-This project is open-sourced software licensed under the MIT License.
+This project is open-sourced software licensed under the MIT License. ROBATELO SI QUIERES XD.
